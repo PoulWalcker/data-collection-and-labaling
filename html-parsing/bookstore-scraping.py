@@ -2,7 +2,6 @@ import requests
 from bs4 import BeautifulSoup
 from fake_useragent import UserAgent
 import re
-from pprint import pprint
 import json
 
 url = 'https://books.toscrape.com/'
